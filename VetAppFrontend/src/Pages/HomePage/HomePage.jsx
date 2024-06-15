@@ -8,7 +8,7 @@ function HomePage() {
 
     const handleClick = (e) => {
         e.preventDefault();
-        navigate('/appointment')
+        navigate('/animals')
     }
 
 
